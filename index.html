@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLIDER FILTRADO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>GAMER'S</h2>
+
+    <!-- Filtro de categorías -->
+    <label for="filtro">Categorías</label>
+    <select id="filtro">
+        <option value="all">Todo</option>
+        <option value="accion-aventura">Acción & Aventura</option>
+        <option value="terror">Terror Thriller</option>
+        <option value="deportes">Deportes</option>
+    </select>
+
+    <!-- Contenedor del slider de imágenes (el contenido se genera dinámicamente desde JS) -->
+    <div class="slider"></div>
+
+    <!-- Script para cargar el JSON y manejar el filtrado -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+

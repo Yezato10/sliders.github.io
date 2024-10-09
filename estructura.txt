@@ -1,0 +1,6 @@
+/GAMES'S
+    /data.json
+    /index.html
+    /script.js
+    /style.css
+    /imagenes/

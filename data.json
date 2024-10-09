@@ -1,0 +1,80 @@
+{
+    "games": [
+      {
+        "category": "accion-aventura",
+        "title": "Black Myth: Wukong",
+        "image": "imagen1.jpg"
+      },
+      {
+        "category": "accion-aventura",
+        "title": "Ghost of Tsushima",
+        "image": "imagen2.jpeg"
+      },
+      {
+        "category": "accion-aventura",
+        "title": "God of War: Ragnarok",
+        "image": "imagen3.jpeg"
+      },
+      {
+        "category": "accion-aventura",
+        "title": "Horizon Forbidden West",
+        "image": "imagen4.jpeg"
+      },
+      {
+        "category": "accion-aventura",
+        "title": "The Last of Us Part II",
+        "image": "imagen5.jpeg"
+      },
+      {
+        "category": "terror",
+        "title": "Resident Evil biohazard",
+        "image": "imagen6.jpeg"
+      },
+      {
+        "category": "terror",
+        "title": "Silent Hill Ascencion",
+        "image": "imagen7.jpeg"
+      },
+      {
+        "category": "terror",
+        "title": "Five Night At Freddy's",
+        "image": "imagen8.jpeg"
+      },
+      {
+        "category": "terror",
+        "title": "The Outlast Trial",
+        "image": "imagen9.png"
+      },
+      {
+        "category": "terror",
+        "title": "Until Dawn",
+        "image": "imagen10.jpeg"
+      },
+      {
+        "category": "deportes",
+        "title": "FC 5",
+        "image": "imagen11.jpeg"
+      },
+      {
+        "category": "deportes",
+        "title": "NBA 2K25",
+        "image": "imagen12.jpeg"
+      },
+      {
+        "category": "deportes",
+        "title": "UFC 5: Prime Series",
+        "image": "imagen13.png"
+      },
+      {
+        "category": "deportes",
+        "title": "Tony Hawks Pro Skater 1+2",
+        "image": "imagen14.png"
+      },
+      {
+        "category": "deportes",
+        "title": "WWE 2K24",
+        "image": "imagen15.png"
+      }
+    ]
+  }
+  
